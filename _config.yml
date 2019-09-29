@@ -54,7 +54,7 @@ topics:
   - name: Web design
 
   - name: Spotify
-    web_url: https://eatcelery.github.io/personal/Spotify.html
+    web_url: https://eatcelery.github.io/personal/Spotify
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
 
 theme: jekyll-theme-cayman
